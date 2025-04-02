@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atilla</h1>
-<h3 align="center">Building hot new shit of Pipelines</h3>
+<h3 align="center">Building Hot New Shit of Pipelines here</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atillaoezyurt-21" alt="atillaoezyurt-21" /></a> </p>
 
